@@ -13,3 +13,4 @@ if (window.localStorage.hasOwnProperty("icon")) {
   document.querySelector("link[rel=icon]").href = local_icon;
   console.log("Icon set to: " + local_icon);
 }
+<link rel="icon" type="image/jpg" href="path-to-your-favicon"/>
