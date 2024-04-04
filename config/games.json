@@ -390,6 +390,11 @@
     "title": "Learn To Fly"
   },
   {
+    "link": "projects/linerider/index.html",
+    "imgSrc": "projects/linerider/images.png",
+    "title": "Line Rider"
+  },
+  {
     "link": "projects/mario/index.html",
     "imgSrc": "projects/mario/Theme/Mario.gif",
     "title": "Mario"
