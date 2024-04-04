@@ -1,6 +1,10 @@
 console.warn(
   "%cHello!!", "color: red; font-weight: 600; background: yellow; padding: 0 5px; border-radius: 5px",
   "Feel free to use anything you find here for your projects; credit is appreciated but not required! Visit my website at https://3kh0.net for more information."
+  {
+  <head>
+  <link rel="icon" type="image/jpg" href="assets/img/favicon.jpg"/>
+  },
 );
 
 const local_title = localStorage.getItem("title");
@@ -13,4 +17,3 @@ if (window.localStorage.hasOwnProperty("icon")) {
   document.querySelector("link[rel=icon]").href = local_icon;
   console.log("Icon set to: " + local_icon);
 }
-<link rel="icon" type="image/jpg" href="assets/img/favicon.jpg"/>
