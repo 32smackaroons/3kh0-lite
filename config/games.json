@@ -405,13 +405,13 @@
     "title": "Meme 2048"
   },
   {
-    "link": "projects/minecraft/index.html",
-    "imgSrc": "projects/minecraft/splash.jpeg",
+    "link": "projects/eagler/index.html",
+    "imgSrc": "projects/eagler/splash.jpeg",
     "title": "Eaglercraft"
   },
   {
-    "link": "projects/minecraft-classic/index.html",
-    "imgSrc": "projects/minecraft-classic/pack.png",
+    "link": "projects/miner-classic/index.html",
+    "imgSrc": "projects/miner-classic/pack.png",
     "title": "Minecraft Classic"
   },
   {
