@@ -1,3 +1,4 @@
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>,
 [
   {
     "link": "projects/1/index.html",
