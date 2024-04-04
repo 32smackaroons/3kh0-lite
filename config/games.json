@@ -738,5 +738,9 @@
     "link": "projects/you-are-bezos/index.html",
     "imgSrc": "projects/you-are-bezos/img/banner.png",
     "title": "You Are Jeff Bezos"
-  }
+  },
+  {
+    "link": "projects/youtube/index.html",
+    "imgSrc": "."
+    "title": "YouTube"
 ]
