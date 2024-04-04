@@ -475,6 +475,11 @@
     "title": "Papa's Burgeria"
   },
   {
+    "link": "projects/papasfreezeria/index.html",
+    "imgSrc": "projects/papasfreezeria/icon.png",
+    "title": "Papa's Freezeria"
+  },
+  {
     "link": "projects/papaspizzaria/index.html",
     "imgSrc": "projects/papaspizzaria/papaspizzaria.jpg",
     "title": "Papa's Pizzaria"
