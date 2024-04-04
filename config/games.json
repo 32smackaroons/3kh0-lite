@@ -1,5 +1,10 @@
-<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>,
 [
+  {
+  <script src="https://happygamer1450.github.io/Ruffle-Embedded/ruffle/ruffle.js"></script>
+<div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
+        <embed height="480" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="yourfilenamehere.swf" type="application/x-shockwave-flash" width="620"></embed>
+</div>
+  },
   {
     "link": "projects/1/index.html",
     "imgSrc": "projects/1/meta/apple-touch-icon.png",
