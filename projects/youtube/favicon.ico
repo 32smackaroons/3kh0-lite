@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/404.css" />
+
+    <meta http-equiv="refresh" content="10;url=/" />
+    <title>404 Error</title>
+  </head>
+  <body>
+    <div id="main">
+    	<div class="fof">
+        		<h1>404 Error</h1>
+            <p>This page doesn't seem to exist yet.
+              <br> You will automatically be redirected in <span id="countdowntimer">10 </span> seconds, or you can click below.</p>
+
+            <script type="text/javascript">
+                var timeleft = 10;
+                var downloadTimer = setInterval(function(){
+                timeleft--;
+                document.getElementById("countdowntimer").textContent = timeleft;
+                if(timeleft <= 0)
+                    clearInterval(downloadTimer);
+                },1000);
+            </script>
+            <br>
+            <a href="/" class="home glow-home" >Return home</a>
+</div>
+  </body>
+</html>
